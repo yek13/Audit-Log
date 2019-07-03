@@ -1,0 +1,16 @@
+﻿[2010-05-26] - Deep Refactoring
+	
+	1. Improved Factory Model for multiple database engine support
+
+	2. No longer needs to receive a OHInfo object
+		2.1. Now we can just pass the object to be logged
+
+	3. Added Optional parameter OHAuditInfo to add audit info
+
+	4. Added support for XML configuration
+		4.1. Now the loggable properties can be configured on the target configuration XML.
+
+	5. Minor bugs and fixes
+
+
+[2010-05-11] - Initial version

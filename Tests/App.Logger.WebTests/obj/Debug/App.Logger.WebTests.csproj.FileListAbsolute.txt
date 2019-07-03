@@ -1,0 +1,320 @@
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\NLog.config
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\App.Logger.WebTests.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\App.Logger.WebTests.pdb
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Win32.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\netstandard.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.AppContext.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Collections.Concurrent.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Collections.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Collections.NonGeneric.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Collections.Specialized.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ComponentModel.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ComponentModel.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Console.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Data.Common.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.Contracts.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.Debug.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.Process.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.StackTrace.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.Tools.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.TraceSource.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.Tracing.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Drawing.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Dynamic.Runtime.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Globalization.Calendars.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Globalization.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Globalization.Extensions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.Compression.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.Compression.ZipFile.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.IsolatedStorage.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.Pipes.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Linq.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Linq.Expressions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Linq.Parallel.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Linq.Queryable.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.Http.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.NameResolution.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.NetworkInformation.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.Ping.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.Requests.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.Security.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.Sockets.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.WebHeaderCollection.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.WebSockets.Client.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Net.WebSockets.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ObjectModel.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Reflection.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Reflection.Extensions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Reflection.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Resources.Reader.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Resources.ResourceManager.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Resources.Writer.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Extensions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Handles.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.InteropServices.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Numerics.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Json.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Claims.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Csp.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.Principal.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Security.SecureString.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Text.Encoding.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Text.Encoding.Extensions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Text.RegularExpressions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Overlapped.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Thread.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.ThreadPool.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Timer.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Xml.ReaderWriter.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Xml.XDocument.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Xml.XmlDocument.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Xml.XmlSerializer.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Xml.XPath.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Xml.XPath.XDocument.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\App.Logger.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Options.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\NLog.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Npgsql.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Remotion.Linq.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Buffers.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Collections.Immutable.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ComponentModel.Annotations.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Interactive.Async.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Memory.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Numerics.Vectors.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ValueTuple.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\App.Logger.pdb
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\App.Logger.dll.config
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Options.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\NLog.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Npgsql.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\Remotion.Linq.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Buffers.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Collections.Immutable.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Interactive.Async.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Memory.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Numerics.Vectors.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\bin\System.ValueTuple.xml
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.csprojAssemblyReference.cache
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.csproj.CoreCompileInputs.cache
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.csproj.CopyComplete
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.dll
+C:\Users\YEK\Desktop\d\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.pdb
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\NLog.config
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\App.Logger.WebTests.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\App.Logger.WebTests.pdb
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Win32.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\netstandard.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.AppContext.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Collections.Concurrent.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Collections.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Collections.NonGeneric.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Collections.Specialized.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ComponentModel.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ComponentModel.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Console.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Data.Common.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.Contracts.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.Debug.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.Process.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.StackTrace.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.Tools.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.TraceSource.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.Tracing.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Drawing.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Dynamic.Runtime.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Globalization.Calendars.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Globalization.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Globalization.Extensions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.Compression.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.Compression.ZipFile.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.IsolatedStorage.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.Pipes.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Linq.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Linq.Expressions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Linq.Parallel.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Linq.Queryable.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.Http.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.NameResolution.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.NetworkInformation.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.Ping.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.Requests.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.Security.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.Sockets.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.WebHeaderCollection.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.WebSockets.Client.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Net.WebSockets.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ObjectModel.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Reflection.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Reflection.Extensions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Reflection.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Resources.Reader.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Resources.ResourceManager.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Resources.Writer.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Extensions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Handles.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.InteropServices.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Numerics.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Json.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Claims.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Csp.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.Principal.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Security.SecureString.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Text.Encoding.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Text.Encoding.Extensions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Text.RegularExpressions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Overlapped.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Thread.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.ThreadPool.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Timer.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Xml.ReaderWriter.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Xml.XDocument.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Xml.XmlDocument.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Xml.XmlSerializer.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Xml.XPath.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Xml.XPath.XDocument.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\App.Logger.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Options.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\NLog.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Npgsql.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Remotion.Linq.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Buffers.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Collections.Immutable.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ComponentModel.Annotations.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Interactive.Async.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Memory.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Numerics.Vectors.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ValueTuple.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\App.Logger.pdb
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\App.Logger.dll.config
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Options.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\NLog.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Npgsql.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\Remotion.Linq.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Buffers.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Collections.Immutable.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Interactive.Async.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Memory.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Numerics.Vectors.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\bin\System.ValueTuple.xml
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.csprojAssemblyReference.cache
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.csproj.CoreCompileInputs.cache
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.csproj.CopyComplete
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.dll
+C:\Users\YEK\Desktop\c tech\Audit Log\Tests\App.Logger.WebTests\obj\Debug\App.Logger.WebTests.pdb
